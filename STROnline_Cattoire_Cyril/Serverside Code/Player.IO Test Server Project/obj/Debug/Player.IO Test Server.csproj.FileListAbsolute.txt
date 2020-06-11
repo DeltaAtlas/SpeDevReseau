@@ -1,0 +1,22 @@
+C:\Users\Cyril Cattoire\Desktop\SDKPlayer.io\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.exe
+C:\Users\Cyril Cattoire\Desktop\SDKPlayer.io\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.pdb
+C:\Users\Cyril Cattoire\Desktop\SDKPlayer.io\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\bin\Debug\MushroomsUnity3DExample.dll
+C:\Users\Cyril Cattoire\Desktop\SDKPlayer.io\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO Development Server.exe
+C:\Users\Cyril Cattoire\Desktop\SDKPlayer.io\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\Cyril Cattoire\Desktop\SDKPlayer.io\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\bin\Debug\MushroomsUnity3DExample.pdb
+C:\Users\Cyril Cattoire\Desktop\SDKPlayer.io\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\Cyril Cattoire\Desktop\SDKPlayer.io\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\obj\Debug\Player.IO Test Server.csprojAssemblyReference.cache
+C:\Users\Cyril Cattoire\Desktop\SDKPlayer.io\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\obj\Debug\Player.IO Test Server.csproj.CoreCompileInputs.cache
+C:\Users\Cyril Cattoire\Desktop\SDKPlayer.io\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\obj\Debug\Player.IO Test Server.csproj.CopyComplete
+C:\Users\Cyril Cattoire\Desktop\SDKPlayer.io\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.exe
+C:\Users\Cyril Cattoire\Desktop\SDKPlayer.io\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.pdb
+D:\Android cours\STROnline_Cattoire_Cyril\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.exe
+D:\Android cours\STROnline_Cattoire_Cyril\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.pdb
+D:\Android cours\STROnline_Cattoire_Cyril\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO Development Server.exe
+D:\Android cours\STROnline_Cattoire_Cyril\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.dll
+D:\Android cours\STROnline_Cattoire_Cyril\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.xml
+D:\Android cours\STROnline_Cattoire_Cyril\Serverside Code\Player.IO Test Server Project\obj\Debug\Player.IO Test Server.csprojAssemblyReference.cache
+D:\Android cours\STROnline_Cattoire_Cyril\Serverside Code\Player.IO Test Server Project\obj\Debug\Player.IO Test Server.csproj.CoreCompileInputs.cache
+D:\Android cours\STROnline_Cattoire_Cyril\Serverside Code\Player.IO Test Server Project\obj\Debug\Player.IO Test Server.csproj.CopyComplete
+D:\Android cours\STROnline_Cattoire_Cyril\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.exe
+D:\Android cours\STROnline_Cattoire_Cyril\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.pdb
